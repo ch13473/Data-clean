@@ -1,8 +1,8 @@
 # Data-clean
-One-dimensional time series data cleaning method.
+## </p>One-dimensional time series data cleaning method.</p>
 
-Main program: Comparison of other methods
-Cleaning method:
+## </p>Main program: Comparison of other methods</p>
+## </p>Cleaning method:</p>
     Moving window 3o method (PauTa Criterion)
     Moving median method
     MODWT (Maximal overlap discrete wavelet transform)
